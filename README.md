@@ -1,16 +1,11 @@
-# todoeyy
+# Todoeyy
 
-A new Flutter project.
+A todo Fluuter application .
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+This app keeps track of the todo tasks that we enter into it.
+We can add tasks, check if we have completed them and delete tasks as per our wish.
 
-A few resources to get you started if this is your first Flutter project:
+# Created using Flutter
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
